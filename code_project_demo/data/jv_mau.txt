@@ -1,0 +1,29 @@
+TIN TUYỂN DỤNG
+
+Vị trí: DevOps Engineer
+Công ty: Công ty Công nghệ DEF
+Địa điểm: Hà Nội (hybrid)
+Mức lương: thỏa thuận theo năng lực
+
+MÔ TẢ CÔNG VIỆC
+Chúng tôi cần một DevOps Engineer tham gia xây dựng và vận hành hạ tầng cho các
+hệ thống microservice đang phục vụ hơn một triệu người dùng. Bạn sẽ làm việc trực
+tiếp với đội phát triển backend để tự động hóa toàn bộ quy trình từ commit đến
+production.
+
+YÊU CẦU BẮT BUỘC
+- Thành thạo Python để viết các script tự động hóa và công cụ nội bộ.
+- Kinh nghiệm đóng gói ứng dụng bằng Docker và triển khai trên cụm Kubernetes.
+- Đã từng xây dựng pipeline CI/CD (GitHub Actions, Jenkins hoặc GitLab CI).
+- Biết quản lý hạ tầng bằng Terraform theo hướng Infrastructure as Code.
+- Kinh nghiệm làm việc với Amazon Web Services: EC2, S3, Lambda.
+- Thành thạo môi trường Linux và viết shell script.
+- Sử dụng Git trong quy trình làm việc nhóm.
+- Biết truy vấn SQL để hỗ trợ điều tra sự cố liên quan đến cơ sở dữ liệu.
+
+YÊU CẦU ƯU TIÊN
+- Đã từng thiết lập hệ thống giám sát với Prometheus và Grafana.
+- Quen với phương pháp làm việc Agile/Scrum.
+
+QUYỀN LỢI
+Bảo hiểm sức khỏe, 15 ngày phép năm, ngân sách đào tạo 20 triệu mỗi năm.

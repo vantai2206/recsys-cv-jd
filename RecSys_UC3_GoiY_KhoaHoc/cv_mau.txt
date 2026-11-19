@@ -1,0 +1,32 @@
+HO SO XIN VIEC
+
+Ho va ten: Nguyen Van An
+Vi tri ung tuyen: Backend Engineer
+Email: an.nguyen@example.com
+
+HOC VAN
+Cu nhan Cong nghe Thong tin - Dai hoc Bach Khoa, 2021
+Do an tot nghiep: he thong quan ly thu vien dung Python va PostgreSQL.
+
+KINH NGHIEM LAM VIEC
+
+Backend Developer - Cong ty ABC Software (08/2021 - nay)
+- Phat trien va bao tri cac service backend bang Python, xu ly khoang 200 nghin
+  request moi ngay.
+- Thiet ke lai schema co so du lieu MySQL, toi uu cac truy van SQL cham giup giam
+  thoi gian phan hoi trung binh tu 800ms xuong con 180ms.
+- Viet script bash tu dong hoa cong viec sao luu dinh ky tren may chu Ubuntu.
+- Lam viec nhom qua GitHub, review code cho 3 thanh vien junior.
+
+Thuc tap sinh Web - Cong ty XYZ (01/2021 - 07/2021)
+- Xay dung giao dien quan tri bang JavaScript thuan va mot phan ReactJS.
+- Tham gia cac buoi hop Scrum hang ngay cung doi phat trien.
+
+KY NANG
+Ngon ngu: Python (thanh thao), JavaScript (kha)
+Co so du lieu: MySQL, PostgreSQL
+Cong cu: Git, GitHub, Linux/Ubuntu, bash
+Phuong phap: Agile/Scrum
+
+NGOAI NGU
+Tieng Anh: doc hieu tai lieu ky thuat tot

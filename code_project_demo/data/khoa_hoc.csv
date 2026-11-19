@@ -1,0 +1,15 @@
+ma,ten,don_vi,ky_nang_cung_cap,thoi_luong_gio,mo_ta
+KH01,Docker va Kubernetes tu co ban den thuc chien,Coursera,docker|kubernetes,40,Hoc cach dong goi ung dung bang Docker va dieu phoi cum container bang Kubernetes qua cac bai lab thuc te.
+KH02,Nhap mon Docker cho nguoi moi,Udemy,docker,12,Khoa hoc ngan gioi thieu container va Docker compose cho lap trinh vien chua tung dung container.
+KH03,CI/CD voi GitHub Actions,Udemy,ci/cd|git,18,Xay dung pipeline tich hop va trien khai lien tuc tu dong bang GitHub Actions cho du an thuc te.
+KH04,Terraform va Infrastructure as Code tren AWS,edX,terraform|aws,35,Quan ly ha tang dam may bang ma nguon voi Terraform tren nen tang Amazon Web Services.
+KH05,AWS Cloud Practitioner Essentials,AWS Training,aws,20,Nam cac dich vu cot loi cua AWS gom EC2 S3 va Lambda cho nguoi moi buoc vao dam may.
+KH06,Kubernetes nang cao va van hanh production,Linux Foundation,kubernetes|monitoring,45,Van hanh cum Kubernetes o moi truong production kem giam sat bang Prometheus va Grafana.
+KH07,Python cho Data Engineer,Coursera,python|sql,30,Xu ly du lieu lon bang Python ket hop truy van SQL toi uu cho pipeline du lieu.
+KH08,Lap trinh Python co ban,Udemy,python,25,Khoa hoc nhap mon ngon ngu Python tu bien kieu du lieu den ham va lap trinh huong doi tuong.
+KH09,DevOps toan dien Docker Kubernetes CI/CD Terraform,Udemy,docker|kubernetes|ci/cd|terraform,80,Lo trinh DevOps day du tu container hoa dieu phoi cum pipeline tu dong den quan ly ha tang bang ma.
+KH10,Machine Learning co ban voi Python,Coursera,machine learning|python,50,Cac thuat toan hoc may nen tang gom hoi quy phan loai va danh gia mo hinh bang Python.
+KH11,Git va quan ly ma nguon hieu qua,edX,git,10,Thanh thao Git tu commit nhanh branch den giai quyet xung dot khi lam viec nhom.
+KH12,Quan tri he thong Linux,Linux Foundation,linux|monitoring,40,Quan tri may chu Linux gom phan quyen tien trinh mang va giam sat tai nguyen he thong.
+KH13,Xay dung REST API voi FastAPI,Udemy,fastapi|python|testing,22,Thiet ke va trien khai REST API hieu nang cao bang FastAPI kem kiem thu tu dong.
+KH14,Giam sat he thong voi Prometheus va Grafana,Udemy,monitoring,15,Thu thap chi so dung dashboard va cau hinh canh bao cho he thong phan tan.

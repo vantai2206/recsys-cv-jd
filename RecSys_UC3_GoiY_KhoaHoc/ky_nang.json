@@ -1,0 +1,26 @@
+{
+  "_ghi_chu": "Mini-taxonomy ky nang, mo phong cau truc ESCO: moi ky nang co 1 'nhan ua thich' (key, dang chuan hoa) va nhieu 'nhan thay the' (aliases). Day la thu giai quyet bai toan dong nghia: CV ghi 'ReactJS', JV ghi 'React.js' -> cung tro ve 'react'. ESCO that co ~13k ky nang nhung khong ho tro tieng Viet, nen ta tu xay ban nho cho domain IT.",
+
+  "python": ["python", "python3", "py", "lap trinh python"],
+  "javascript": ["javascript", "js", "ecmascript", "lap trinh javascript"],
+  "typescript": ["typescript", "ts"],
+  "java": ["java", "lap trinh java"],
+  "sql": ["sql", "mysql", "postgresql", "postgres", "truy van sql", "co so du lieu quan he"],
+  "nosql": ["nosql", "mongodb", "redis", "cassandra"],
+  "docker": ["docker", "docker compose", "container", "containerization", "dong goi container"],
+  "kubernetes": ["kubernetes", "k8s", "orchestration", "dieu phoi container"],
+  "ci/cd": ["ci/cd", "cicd", "ci cd", "continuous integration", "continuous deployment", "github actions", "jenkins", "gitlab ci", "tich hop lien tuc"],
+  "terraform": ["terraform", "infrastructure as code", "iac", "ha tang duoi dang ma"],
+  "aws": ["aws", "amazon web services", "ec2", "s3", "lambda"],
+  "azure": ["azure", "microsoft azure"],
+  "git": ["git", "github", "gitlab", "version control", "quan ly ma nguon", "quan ly phien ban"],
+  "linux": ["linux", "ubuntu", "bash", "shell script", "quan tri linux"],
+  "monitoring": ["monitoring", "prometheus", "grafana", "giam sat he thong", "observability"],
+  "fastapi": ["fastapi", "rest api", "restful api", "xay dung api"],
+  "react": ["react", "reactjs", "react.js"],
+  "machine learning": ["machine learning", "hoc may", "ml"],
+  "deep learning": ["deep learning", "hoc sau", "neural network", "mang no ron"],
+  "nlp": ["nlp", "xu ly ngon ngu tu nhien", "natural language processing"],
+  "agile": ["agile", "scrum", "kanban"],
+  "testing": ["testing", "unit test", "kiem thu", "pytest"]
+}

@@ -1,0 +1,32 @@
+HỒ SƠ XIN VIỆC
+
+Họ và tên: Nguyễn Văn An
+Vị trí ứng tuyển: Backend Engineer
+Email: an.nguyen@example.com
+
+HỌC VẤN
+Cử nhân Công nghệ Thông tin - Đại học Bách Khoa, 2021
+Đồ án tốt nghiệp: hệ thống quản lý thư viện dùng Python và PostgreSQL.
+
+KINH NGHIỆM LÀM VIỆC
+
+Backend Developer - Công ty ABC Software (08/2021 - nay)
+- Phát triển và bảo trì các service backend bằng Python, xử lý khoảng 200 nghìn
+  request mỗi ngày.
+- Thiết kế lại schema cơ sở dữ liệu MySQL, tối ưu các truy vấn SQL chậm giúp giảm
+  thời gian phản hồi trung bình từ 800ms xuống còn 180ms.
+- Viết script bash tự động hóa công việc sao lưu định kỳ trên máy chủ Ubuntu.
+- Làm việc nhóm qua GitHub, review code cho 3 thành viên junior.
+
+Thực tập sinh Web - Công ty XYZ (01/2021 - 07/2021)
+- Xây dựng giao diện quản trị bằng JavaScript thuần và một phần ReactJS.
+- Tham gia các buổi họp Scrum hằng ngày cùng đội phát triển.
+
+KỸ NĂNG
+Ngôn ngữ: Python (thành thạo), JavaScript (khá)
+Cơ sở dữ liệu: MySQL, PostgreSQL
+Công cụ: Git, GitHub, Linux/Ubuntu, bash
+Phương pháp: Agile/Scrum
+
+NGOẠI NGỮ
+Tiếng Anh: đọc hiểu tài liệu kỹ thuật tốt

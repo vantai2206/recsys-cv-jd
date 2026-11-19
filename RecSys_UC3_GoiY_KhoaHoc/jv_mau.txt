@@ -1,0 +1,29 @@
+TIN TUYEN DUNG
+
+Vi tri: DevOps Engineer
+Cong ty: Cong ty Cong nghe DEF
+Dia diem: Ha Noi (hybrid)
+Muc luong: thoa thuan theo nang luc
+
+MO TA CONG VIEC
+Chung toi can mot DevOps Engineer tham gia xay dung va van hanh ha tang cho cac
+he thong microservice dang phuc vu hon mot trieu nguoi dung. Ban se lam viec truc
+tiep voi doi phat trien backend de tu dong hoa toan bo quy trinh tu commit den
+production.
+
+YEU CAU BAT BUOC
+- Thanh thao Python de viet cac script tu dong hoa va cong cu noi bo.
+- Kinh nghiem dong goi ung dung bang Docker va trien khai tren cum Kubernetes.
+- Da tung xay dung pipeline CI/CD (GitHub Actions, Jenkins hoac GitLab CI).
+- Biet quan ly ha tang bang Terraform theo huong Infrastructure as Code.
+- Kinh nghiem lam viec voi Amazon Web Services: EC2, S3, Lambda.
+- Thanh thao moi truong Linux va viet shell script.
+- Su dung Git trong quy trinh lam viec nhom.
+- Biet truy van SQL de ho tro dieu tra su co lien quan den co so du lieu.
+
+YEU CAU UU TIEN
+- Da tung thiet lap he thong giam sat voi Prometheus va Grafana.
+- Quen voi phuong phap lam viec Agile/Scrum.
+
+QUYEN LOI
+Bao hiem suc khoe, 15 ngay phep nam, ngan sach dao tao 20 trieu moi nam.

@@ -1,0 +1,247 @@
+{
+  "_ghi_chu": "DU LIEU MAU HU CAU, khong phai tin tuyen dung that. Ten cong ty, link va muc luong deu la vi du. Cau truc mo phong ket qua crawl tu nhieu nen tang: moi tin co 'nguon' va 'link' de nguoi dung biet tin nay lay tu dau. Khi co nguon that chi can thay noi dung file nay, code xep hang khong doi.",
+
+  "tin": [
+    {
+      "ma": "ITV001",
+      "tieu_de": "Backend Engineer (Python)",
+      "cong_ty": "Cong ty ABC Software",
+      "nguon": "ITviec",
+      "link": "https://itviec.com/it-jobs/vi-du-itv001",
+      "dia_diem": "Ha Noi",
+      "muc_luong": "20 - 30 trieu",
+      "ngay_dang": "2026-09-10",
+      "yeu_cau_bat_buoc": [
+        "Thanh thao Python, co kinh nghiem xay dung service backend chiu tai cao.",
+        "Nam vung SQL va thiet ke co so du lieu quan he (MySQL hoac PostgreSQL).",
+        "Su dung Git thanh thao trong quy trinh lam viec nhom.",
+        "Lam viec tot tren moi truong Linux, viet duoc shell script.",
+        "Biet dong goi ung dung bang Docker."
+      ],
+      "yeu_cau_uu_tien": [
+        "Tung xay dung REST API bang FastAPI.",
+        "Co thoi quen viet unit test, quen voi pytest."
+      ]
+    },
+    {
+      "ma": "ITV002",
+      "tieu_de": "DevOps Engineer",
+      "cong_ty": "Cong ty Cong nghe DEF",
+      "nguon": "ITviec",
+      "link": "https://itviec.com/it-jobs/vi-du-itv002",
+      "dia_diem": "Ha Noi (hybrid)",
+      "muc_luong": "Thoa thuan",
+      "ngay_dang": "2026-09-08",
+      "yeu_cau_bat_buoc": [
+        "Thanh thao Python de viet script tu dong hoa va cong cu noi bo.",
+        "Kinh nghiem dong goi ung dung bang Docker va trien khai tren cum Kubernetes.",
+        "Da tung xay dung pipeline CI/CD bang GitHub Actions hoac Jenkins.",
+        "Biet quan ly ha tang bang Terraform theo huong Infrastructure as Code.",
+        "Kinh nghiem lam viec voi Amazon Web Services: EC2, S3, Lambda.",
+        "Thanh thao moi truong Linux va viet shell script.",
+        "Su dung Git trong quy trinh lam viec nhom.",
+        "Biet truy van SQL de ho tro dieu tra su co."
+      ],
+      "yeu_cau_uu_tien": [
+        "Da tung thiet lap he thong giam sat voi Prometheus va Grafana.",
+        "Quen voi phuong phap lam viec Agile/Scrum."
+      ]
+    },
+    {
+      "ma": "ITV003",
+      "tieu_de": "Fullstack Developer (React + Python)",
+      "cong_ty": "Cong ty GHI Solutions",
+      "nguon": "ITviec",
+      "link": "https://itviec.com/it-jobs/vi-du-itv003",
+      "dia_diem": "Ha Noi",
+      "muc_luong": "22 - 32 trieu",
+      "ngay_dang": "2026-09-12",
+      "yeu_cau_bat_buoc": [
+        "Thanh thao JavaScript hien dai va co kinh nghiem thuc te voi ReactJS.",
+        "Viet duoc backend bang Python.",
+        "Truy van SQL tot, hieu ve chi muc va toi uu cau truy van.",
+        "Quan ly ma nguon bang Git."
+      ],
+      "yeu_cau_uu_tien": [
+        "Biet Docker de dong goi moi truong phat trien.",
+        "Quen voi quy trinh Scrum."
+      ]
+    },
+    {
+      "ma": "TCV001",
+      "tieu_de": "Python Developer (Junior)",
+      "cong_ty": "Cong ty JKL Tech",
+      "nguon": "TopCV",
+      "link": "https://www.topcv.vn/viec-lam/vi-du-tcv001",
+      "dia_diem": "Ha Noi",
+      "muc_luong": "15 - 22 trieu",
+      "ngay_dang": "2026-09-14",
+      "yeu_cau_bat_buoc": [
+        "Co kinh nghiem lap trinh Python tu 1 nam tro len.",
+        "Biet truy van SQL co ban.",
+        "Su dung duoc Git."
+      ],
+      "yeu_cau_uu_tien": [
+        "Tung lam viec tren may chu Linux.",
+        "Quen voi phuong phap Agile."
+      ]
+    },
+    {
+      "ma": "TCV002",
+      "tieu_de": "Data Engineer",
+      "cong_ty": "Cong ty MNO Data",
+      "nguon": "TopCV",
+      "link": "https://www.topcv.vn/viec-lam/vi-du-tcv002",
+      "dia_diem": "Ho Chi Minh",
+      "muc_luong": "25 - 35 trieu",
+      "ngay_dang": "2026-09-11",
+      "yeu_cau_bat_buoc": [
+        "Xu ly du lieu lon bang Python.",
+        "Thanh thao SQL, toi uu duoc truy van tren bang hang tram trieu dong.",
+        "Lam viec tren moi truong Linux.",
+        "Dong goi job xu ly du lieu bang Docker."
+      ],
+      "yeu_cau_uu_tien": [
+        "Kinh nghiem voi Amazon Web Services (S3, Lambda).",
+        "Biet giam sat pipeline bang Prometheus va Grafana."
+      ]
+    },
+    {
+      "ma": "TCV003",
+      "tieu_de": "Frontend Developer (ReactJS)",
+      "cong_ty": "Cong ty PQR Digital",
+      "nguon": "TopCV",
+      "link": "https://www.topcv.vn/viec-lam/vi-du-tcv003",
+      "dia_diem": "Ha Noi",
+      "muc_luong": "18 - 26 trieu",
+      "ngay_dang": "2026-09-13",
+      "yeu_cau_bat_buoc": [
+        "Thanh thao JavaScript va React.js.",
+        "Quan ly ma nguon bang Git, lam viec tren GitHub."
+      ],
+      "yeu_cau_uu_tien": [
+        "Viet duoc TypeScript.",
+        "Co kinh nghiem viet unit test cho giao dien."
+      ]
+    },
+    {
+      "ma": "TCV004",
+      "tieu_de": "Java Backend Developer",
+      "cong_ty": "Cong ty STU Finance",
+      "nguon": "TopCV",
+      "link": "https://www.topcv.vn/viec-lam/vi-du-tcv004",
+      "dia_diem": "Ha Noi",
+      "muc_luong": "25 - 35 trieu",
+      "ngay_dang": "2026-09-09",
+      "yeu_cau_bat_buoc": [
+        "Thanh thao lap trinh Java, hieu ve JVM.",
+        "Thiet ke va truy van co so du lieu quan he, SQL tot.",
+        "Su dung Git trong nhom lon.",
+        "Trien khai ung dung tren may chu Linux."
+      ],
+      "yeu_cau_uu_tien": [
+        "Biet Docker va Kubernetes.",
+        "Quen voi Agile."
+      ]
+    },
+    {
+      "ma": "VNW001",
+      "tieu_de": "Backend Developer (NodeJS)",
+      "cong_ty": "Cong ty VWX Commerce",
+      "nguon": "VietnamWorks",
+      "link": "https://www.vietnamworks.com/viec-lam/vi-du-vnw001",
+      "dia_diem": "Ho Chi Minh",
+      "muc_luong": "20 - 28 trieu",
+      "ngay_dang": "2026-09-07",
+      "yeu_cau_bat_buoc": [
+        "Thanh thao JavaScript phia may chu.",
+        "Kinh nghiem voi MongoDB hoac Redis.",
+        "Quan ly phien ban bang Git.",
+        "Dong goi dich vu bang Docker."
+      ],
+      "yeu_cau_uu_tien": [
+        "Trien khai tren Amazon Web Services."
+      ]
+    },
+    {
+      "ma": "VNW002",
+      "tieu_de": "Machine Learning Engineer",
+      "cong_ty": "Cong ty YZA AI",
+      "nguon": "VietnamWorks",
+      "link": "https://www.vietnamworks.com/viec-lam/vi-du-vnw002",
+      "dia_diem": "Ha Noi",
+      "muc_luong": "30 - 45 trieu",
+      "ngay_dang": "2026-09-06",
+      "yeu_cau_bat_buoc": [
+        "Thanh thao Python cho khoa hoc du lieu.",
+        "Nam vung cac thuat toan machine learning co ban.",
+        "Kinh nghiem voi deep learning va mang no ron.",
+        "Truy van SQL de lay du lieu huan luyen."
+      ],
+      "yeu_cau_uu_tien": [
+        "Tung lam bai toan xu ly ngon ngu tu nhien.",
+        "Biet dong goi mo hinh bang Docker."
+      ]
+    },
+    {
+      "ma": "VNW003",
+      "tieu_de": "Ky su van hanh he thong (SRE)",
+      "cong_ty": "Cong ty BCD Telecom",
+      "nguon": "VietnamWorks",
+      "link": "https://www.vietnamworks.com/viec-lam/vi-du-vnw003",
+      "dia_diem": "Ha Noi",
+      "muc_luong": "28 - 40 trieu",
+      "ngay_dang": "2026-09-05",
+      "yeu_cau_bat_buoc": [
+        "Quan tri he thong Linux o quy mo lon.",
+        "Giam sat he thong bang Prometheus va Grafana.",
+        "Van hanh cum Kubernetes o moi truong production.",
+        "Dong goi container bang Docker.",
+        "Su dung Git."
+      ],
+      "yeu_cau_uu_tien": [
+        "Quan ly ha tang bang Terraform."
+      ]
+    },
+    {
+      "ma": "LKD001",
+      "tieu_de": "Software Engineer, Platform",
+      "cong_ty": "Cong ty EFG Global",
+      "nguon": "LinkedIn",
+      "link": "https://www.linkedin.com/jobs/view/vi-du-lkd001",
+      "dia_diem": "Ha Noi (remote)",
+      "muc_luong": "Thoa thuan",
+      "ngay_dang": "2026-09-12",
+      "yeu_cau_bat_buoc": [
+        "Viet cong cu noi bo bang Python.",
+        "Van hanh dich vu tren cum Kubernetes.",
+        "Kinh nghiem voi Amazon Web Services.",
+        "Quan ly ma nguon bang Git.",
+        "Thanh thao Linux."
+      ],
+      "yeu_cau_uu_tien": [
+        "Biet Terraform.",
+        "Tung xay dung he thong observability."
+      ]
+    },
+    {
+      "ma": "LKD002",
+      "tieu_de": "Mobile Developer (React Native)",
+      "cong_ty": "Cong ty HIJ Mobile",
+      "nguon": "LinkedIn",
+      "link": "https://www.linkedin.com/jobs/view/vi-du-lkd002",
+      "dia_diem": "Ho Chi Minh",
+      "muc_luong": "22 - 30 trieu",
+      "ngay_dang": "2026-09-13",
+      "yeu_cau_bat_buoc": [
+        "Kinh nghiem phat trien ung dung di dong bang React Native.",
+        "Thanh thao JavaScript.",
+        "Quan ly ma nguon bang Git."
+      ],
+      "yeu_cau_uu_tien": [
+        "Viet duoc TypeScript.",
+        "Co thoi quen viet unit test."
+      ]
+    }
+  ]
+}

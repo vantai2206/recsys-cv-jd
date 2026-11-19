@@ -1,0 +1,15 @@
+# Moi truong / file tam
+.venv/
+__pycache__/
+.idea/
+~$*
+
+# Du lieu cua nguoi khac (khong cong khai)
+du_lieu_cv_jd_anh_Doan/
+
+# Tai lieu ca nhan, chua dua len
+*.doc
+*.docx
+*.pdf
+Góc thắc mắc/
+kiến thức về code/
